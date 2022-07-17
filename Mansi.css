@@ -1,0 +1,160 @@
+h1,h2,div{
+	text-align: center;
+
+}
+h1{
+	font-size: 40px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+div a{
+	font-size: 20px;
+	margin-right:40px;
+	margin-left:40px;
+
+}
+#linkedin{
+	color: blue;
+}
+#github{
+	color: black;
+}
+#whatsapp{
+	color: green;
+}
+
+
+
+
+/*p{
+	color:red/#000000;            --selects all p tags
+	font-size:30px;
+	font-family: monospace;   every word in p becomes monospaced
+    width: 100px;
+    border-color: ;
+    border-width: ;
+    border-style: solid;
+    border-radius: 10px/50%;     50% basically makes it a circle
+    background-color:blue;
+    text-align: center;
+    padding: 20px/ 1.5em;    1.5em means 1.5 times padding of other things on parent page
+    paddinf-top: ;
+    padding-right: ;
+    padding-top: ;
+    padding-bottom: ;
+    margin: 10px/-15px;      covers up entire margin area in both sides left and right
+    margin-top: ;
+    margin-bottom: ;
+    margin-left: ;
+    margin-right: ;
+    padding:10 20 30 40;   t r b l
+    margin:10 20 30 40;    t,r,b,l
+    text-transform: uppercase;
+    font-weight: 100-200-300---800(lightest>>boldest);
+    line-height: 2;   multiplies line height by 2
+    text-decoration: underline/line-through;
+    letter-spacing: 2em;   double the initial spacing
+
+    
+
+}
+h1: hover{
+	color: blue;         makes it blue color when we hover over it.
+}
+h1: visited{
+	color: purple;
+}
+
+.hello{
+                 -----selects all classes named hello <p class="hello"> hehehe</p>
+                 we can have multiple classes like <p class="hello  byee"
+                 class can be used to identify more than one HTML element
+
+#hello{
+              -----selects all ids named hello <li id="hello">apple</li>
+              each element only can have one id
+
+}
+*/
+*{
+	font-family: 'JetBrains Mono', monospace;
+                 /*---selects everything on page all tags*/
+}
+
+/*li_a{
+             ----selects all a tags which are under li tags
+}
+
+h1+ul{
+
+}
+
+
+input[type="text/radio/checkbox/etc."]{
+                       ----selects every element based on any attribute.
+}
+
+ul:nth-of-type(3)p{
+                   selects every p tag which is inside every 3rd ul
+}*/
+
+/*img{
+
+}*/
+
+body{
+	background-color: lightgrey;
+
+}
+
+
+
+/*using !important; mark>>inline style(<h1 class="hello" id="hello" style="color: blue;">id >> class(in case of multiple classes to same element,it takes which is declared last)>body*/
+/*px==absolute types of length like mm,cm,etc.
+relative to another length value
+em or m value== sets font size properties relative to parent font-size, padding*/
+
+/*#000000 rrggbb 00FF00-green-0F0 FF0000-red-F00 0000FF-blue-00F
+background-color:rgb(255,255,255)--white
+:rgb(0,0,0)--black*/
+
+
+
+/*.conatiner{
+	font-size:40px;
+	background: LightGray;
+	width: 100%;
+	display: grid;
+	grid-template-columns: 100px 100px 100px;  (auto 50px 10% 2fr 1 fr)10% of entire container, 2:1 ratio of remaning conatiner) 
+	grid-template-rows:50px 50px 50px ;
+	grid-column-gap:20px ;     10px 20px   (r c)
+	grid-row-gap:10px;
+	grid-gap: 10px;
+	justify-items: center;   ---aligns all items horizontally
+	align-items: end;       ----aligns all items vertically
+
+
+}
+*/
+./*d1{background: lightskyblue;}
+.d2{background: LightSalmon;
+justify-self:center/start/end;     (the text in this grid will be aligned horizontally accordingly) 
+align-self: center/start/end;                   (the text will be aligned vertically accordingly) 
+}
+.d3{background: PaleTurquoise}
+.d4{backgrouund:  LightPink}
+.d5{background: PaleGreen;
+    grid-column: 2/4; ----it will start from line 2 and end at line 4
+    grid-row: 2/4;
+    }*/
+/*--var_name:gray;    this variable whenever used anywhere in the code will be replaced by gray color.
+background:var(--var_name);
+background:var(--wrongly spelled var_name, green) ----it will take green color*/
+
+/*:root{
+	var_name: ;     these variables can be used anywhere in the document.   
+}*/
+
