@@ -6,4 +6,4 @@
   <li>2.Extract files from your Downloads folder.</li>
   <li>3.Open Mansi.html</li>
   <li>4.Voila! There you go...</li>
-  </ul>
+</ul>
