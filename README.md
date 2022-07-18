@@ -1,9 +1,8 @@
 # Mansi_iitd_courses
 
 <h3>How to access<h3>
-<ol>
-<li>Go to <b>Code</b> and download ZIP.</li>
-<li>Extract files from your Downloads folder.</li>
-<li>Open Mansi.html</li>
-<li>Voila! There you go...</li>
-</ol>
+
+1.Go to <b>Code</b> and download ZIP.
+2.Extract files from your Downloads folder.
+3.Open Mansi.html
+4.Voila! There you go...
