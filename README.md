@@ -1,6 +1,3 @@
-## Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 # Mansi_iitd_courses
 
 <h3>How to access<h3>
